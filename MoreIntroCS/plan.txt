@@ -1,3 +1,4 @@
+.gitignore
 de viktigste datatypene
  - bool
  - char
