@@ -1,4 +1,5 @@
 ﻿using MoreIntroCS;
 
+// ConvertDemo.Run();
+EnumDemo.Run();
 
-GameOfLife.Run();
