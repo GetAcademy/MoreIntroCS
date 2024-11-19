@@ -1,6 +1,6 @@
 ﻿namespace MoreIntroCS
 {
-   class GameOfLife
+    class GameOfLife
     {
         static char[] _cells;
         static int _columnCount;
@@ -59,7 +59,7 @@
         static int IsCellAlive(int rowIndex, int colIndex)
         {
             if (
-                rowIndex < 0 || colIndex < 0 || 
+                rowIndex < 0 || colIndex < 0 ||
                 rowIndex >= _rowCount || colIndex >= _columnCount) return 0;
             var index = rowIndex * _columnCount + colIndex;
             return _cells[index] == 'O' ? 1 : 0;

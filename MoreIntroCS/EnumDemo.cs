@@ -16,8 +16,7 @@
             var c1 = (TrafficLight)1;
             Console.WriteLine(c1);
             var s = "RedAndYellow";
-            Enum.TryParse(s, out TrafficLight d2);
-
+            var isSuccess = Enum.TryParse(s, out TrafficLight d2);
 
             b++;
         }
