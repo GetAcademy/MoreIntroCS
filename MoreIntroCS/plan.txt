@@ -1,13 +1,13 @@
-.gitignore
-de viktigste datatypene
+- .gitignore
+- de viktigste datatypene
  - bool
  - char
  - int
  - double
  - string
-Convert, casting, parse 
-enum
-overloads og default parametre
-tilfeldige tall
-arrays
-Game of life
+- Convert, casting, parse 
+- enum
+- overloads og default parametre
+- tilfeldige tall
+- arrays
+- Game of life
