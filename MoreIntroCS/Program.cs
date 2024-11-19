@@ -1,0 +1,4 @@
+﻿using MoreIntroCS;
+
+
+GameOfLife.Run();
